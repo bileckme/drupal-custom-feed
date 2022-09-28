@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+<title>AllAfrica News: South Africa</title>
+<link>https://allafrica.com/southafrica/</link>
+<description>All Africa, All the Time.</description>
+<language>en-us</language>
+<pubDate>Tue, 27 Sep 2022 16:14:57 GMT</pubDate>
+<lastBuildDate>Tue, 27 Sep 2022 16:14:57 GMT</lastBuildDate>
+<docs>https://allafrica.com/misc/tools/rss.html</docs>
+<ttl>15</ttl>
+<atom:link href="https://allafrica.com/tools/headlines/rdf/southafrica/headlines.rdf" rel="self" type="application/rss+xml"/>
+
+<image>
+<title>AllAfrica News: South Africa</title>
+<url>https://cdn02.allafrica.com/static/images/structure/aa-logo-rgba-119x45.png</url>
+<link>https://allafrica.com/southafrica/</link>
+<width>119</width>
+<height>45</height>
+</image>
+<item>
+<title><![CDATA[New Study Busts Myths About Immigrants in South Africa]]></title>
+<link>https://allafrica.com/stories/202209270620.html</link>
+<description><![CDATA[[allAfrica] Harare -- Cross-border immigration is frequently the focus of divisive and passionate debate in the host nation and has emerged as the subject of contentious and emotional debate in many countries. A disturbing trend globally is that some political groups tend to blame and scapegoat immigrants for socio-economic problems like crime, health crises, unemployment, and poverty.]]></description>
+<author>allAfrica</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270620.html</guid>
+<pubDate>Tue, 27 Sep 2022 16:14:57 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Is Jacob Zuma on Comeback Trail? South African News Briefs - September 27, 2022]]></title>
+<link>https://allafrica.com/stories/202209270134.html</link>
+<description><![CDATA[[allAfrica] Cape Town --  ]]></description>
+<author>allAfrica</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270134.html</guid>
+<pubDate>Tue, 27 Sep 2022 08:05:52 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Returning Zimbabweans Battle to Rebuild Their Lives in Harare]]></title>
+<link>https://allafrica.com/stories/202209270450.html</link>
+<description><![CDATA[[GroundUp] Some have good memories of their years in South Africa]]></description>
+<author>GroundUp</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270450.html</guid>
+<pubDate>Tue, 27 Sep 2022 12:40:19 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Employment and Labour Mega Blitz Inspection Results in Eight Arrests]]></title>
+<link>https://allafrica.com/stories/202209270232.html</link>
+<description><![CDATA[[Govt of SA] Mega Blitz inspection yields to arrests of about eight foreign national employees and two employers in Tshwane]]></description>
+<author>Govt of SA</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270232.html</guid>
+<pubDate>Tue, 27 Sep 2022 09:30:15 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Western Cape Opposes Eskom's Proposal for 32% Tariff Hike]]></title>
+<link>https://allafrica.com/stories/202209270227.html</link>
+<description><![CDATA[[Govt of SA] Already hard-pressed South African residents simply cannot afford the Eskom-proposed increase of 32% in the electricity tariff.]]></description>
+<author>Govt of SA</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270227.html</guid>
+<pubDate>Tue, 27 Sep 2022 09:28:39 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[In-Depth - Have 4 Years of Administration Reduced Medicine Stockouts in North West?]]></title>
+<link>https://allafrica.com/stories/202209270521.html</link>
+<description><![CDATA[[spotlight] Public healthcare facilities in the North West have been plagued by chronic medicines stockouts for years. Now, as the province's health department is again taking the reins after four years under administration by the National Department of Health, there are some signs of improvement, although some people still return from healthcare facilities without the medicines they need.]]></description>
+<author>spotlight</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270521.html</guid>
+<pubDate>Tue, 27 Sep 2022 13:44:17 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Hundreds of Millions 'Siphoned' From Lottery Commission]]></title>
+<link>https://allafrica.com/stories/202209270488.html</link>
+<description><![CDATA[[SAnews.gov.za] Special Investigating Unit (SIU) head, Advocate Andy Mothibi, says the unit has gathered enough evidence for civil, prosecutorial and disciplinary action to be taken against those who allegedly "siphoned" some R279 million from the coffers of the National Lotteries Commission (NLC).]]></description>
+<author>SAnews.gov.za</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270488.html</guid>
+<pubDate>Tue, 27 Sep 2022 13:20:10 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Eskom Board to Be Restructured]]></title>
+<link>https://allafrica.com/stories/202209270487.html</link>
+<description><![CDATA[[SAnews.gov.za] The board of power utility Eskom is expected to be "reconstituted and restructured" following a meeting with Department of Public Enterprises Minister, Pravin Gordhan.]]></description>
+<author>SAnews.gov.za</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270487.html</guid>
+<pubDate>Tue, 27 Sep 2022 13:17:42 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Rural Doctor of the Year - Craig Parker - the Doctor-Engineer Who Created a Covid Lifeline for Rural Areas]]></title>
+<link>https://allafrica.com/stories/202209270520.html</link>
+<description><![CDATA[[spotlight] Dr Craig Parker's oxygen device - the OxERA - saved hundreds of lives during COVID-19, particularly around the rural Eastern Cape. Now, the device has earned a global nod as it was listed in the World Health Organization's 2022 Compendium under "innovative health technologies for low resource settings".]]></description>
+<author>spotlight</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270520.html</guid>
+<pubDate>Tue, 27 Sep 2022 13:42:19 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[When Can Someone Be Removed From Public Land Without a Court Order?]]></title>
+<link>https://allafrica.com/stories/202209270243.html</link>
+<description><![CDATA[[GroundUp] We explain what the courts have ruled]]></description>
+<author>GroundUp</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270243.html</guid>
+<pubDate>Tue, 27 Sep 2022 09:39:18 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Deputy Minister Nomalungelo Gina Visits Titanium Dioxide Pigment Plant in Richards Bay]]></title>
+<link>https://allafrica.com/stories/202209270233.html</link>
+<description><![CDATA[[Govt of SA] Government happy with progress at titanium dioxide pigment plant in Richards Bay]]></description>
+<author>Govt of SA</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270233.html</guid>
+<pubDate>Tue, 27 Sep 2022 09:30:48 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[How to Help People Stay On Antiretroviral Therapy When Life Gets in the Way]]></title>
+<link>https://allafrica.com/stories/202209270090.html</link>
+<description><![CDATA[[The Conversation Africa] Antiretroviral therapy (ART) has turned HIV into a manageable chronic condition. When ART is working effectively, HIV cannot be transmitted. This allows people with HIV to live fuller lives without the fear of infecting others. It's also led global HIV control efforts to focus on increasing ART coverage. The aim is to improve the health of people living with HIV, and to decrease and eventually halt the spread of the virus.]]></description>
+<author>The Conversation Africa</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270090.html</guid>
+<pubDate>Tue, 27 Sep 2022 07:34:26 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Teens Skip School to Chase Risky Crypto Dreams]]></title>
+<link>https://allafrica.com/stories/202209270008.html</link>
+<description><![CDATA[[Thomson Reuters Foundation] Johannesburg -- Young South Africans in the townships are drawn to the promise of quick riches with cryptocurrencies, but risk losses and scams]]></description>
+<author>Thomson Reuters Foundation</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270008.html</guid>
+<pubDate>Tue, 27 Sep 2022 04:33:29 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Parents, Families and Friends of South African Queers Join Soweto Pride]]></title>
+<link>https://allafrica.com/stories/202209260578.html</link>
+<description><![CDATA[[GroundUp] Celebration kicks of with protest over hate crime against LGBTQIA+ community]]></description>
+<author>GroundUp</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260578.html</guid>
+<pubDate>Mon, 26 Sep 2022 14:10:01 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Couple Challenges Law On Maternity Leave]]></title>
+<link>https://allafrica.com/stories/202209260549.html</link>
+<description><![CDATA[[GroundUp] Both parents should be entitled to the same leave when a baby is born, argues Polokwane couple]]></description>
+<author>GroundUp</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260549.html</guid>
+<pubDate>Mon, 26 Sep 2022 13:53:11 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Rolling Out Solar Power for Informal Settlements]]></title>
+<link>https://allafrica.com/stories/202209260548.html</link>
+<description><![CDATA[[GroundUp] Zonke Energy says there is an urgent need and demand outstrips supply]]></description>
+<author>GroundUp</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260548.html</guid>
+<pubDate>Mon, 26 Sep 2022 13:51:39 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Some Plants Can Short-Circuit the Toxic Effects of Metals - Scientists Are Trying to Harness Their Power]]></title>
+<link>https://allafrica.com/stories/202209270102.html</link>
+<description><![CDATA[[The Conversation Africa] At first glance, it's hard to see what gold, iron, lead, arsenic, silver, platinum and tin have in common. A look at the periodic table will clear up the confusion: they are all heavy metals, typically categorised as those metals with an atomic weight and density at least five times greater than water.]]></description>
+<author>The Conversation Africa</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270102.html</guid>
+<pubDate>Tue, 27 Sep 2022 07:38:39 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[5 Steps You Can Take to Manage a Hike in Interest Rates]]></title>
+<link>https://allafrica.com/stories/202209270094.html</link>
+<description><![CDATA[[The Conversation Africa] The governor of the South African Reserve Bank recently announced an increase in the lending rate by 75 basis points. This means the repo rate (the rate at which the central bank lends money to commercial banks) will increase from 5.5% to 6.25% and the prime rate (the rate commercial banks charge their clients when lending them money) rises from 9.0% to 9.75%.]]></description>
+<author>The Conversation Africa</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270094.html</guid>
+<pubDate>Tue, 27 Sep 2022 07:35:46 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Protesters Block Part of South Africa's Longest Highway]]></title>
+<link>https://allafrica.com/stories/202209270081.html</link>
+<description><![CDATA[[VOA] Cape Town -- South African protesters angry over water shortages shut down part of the country's longest highway with rock barricades and burning tires.]]></description>
+<author>VOA</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270081.html</guid>
+<pubDate>Tue, 27 Sep 2022 06:44:20 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[No Quick Fix to Load Shedding but Progress Being Made]]></title>
+<link>https://allafrica.com/stories/202209260149.html</link>
+<description><![CDATA[[SAnews.gov.za] Given the unpredictable performance of Eskom's fleet of coal-fired power stations, President Cyril Ramaphosa has admitted that the country will not be able to eliminate load shedding in the short term.]]></description>
+<author>SAnews.gov.za</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260149.html</guid>
+<pubDate>Mon, 26 Sep 2022 08:39:00 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[President Calls on Citizens to Persevere in Power Cuts - South African News Briefs - September 26, 2022]]></title>
+<link>https://allafrica.com/stories/202209260091.html</link>
+<description><![CDATA[[allAfrica] Cape Town --  ]]></description>
+<author>allAfrica</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260091.html</guid>
+<pubDate>Mon, 26 Sep 2022 07:49:42 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Army Provides Private Security to ANC Cadres]]></title>
+<link>https://allafrica.com/stories/202209270132.html</link>
+<description><![CDATA[[DA] The DA strongly condemns the abhorrent abuse of power and misuse of state resources by an SANDF Colonel, as revealed in a recent news report. We will be submitting parliamentary questions regarding this matter.]]></description>
+<author>DA</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270132.html</guid>
+<pubDate>Tue, 27 Sep 2022 08:01:00 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[DA Calls for Public Comment On Cutting Food VAT]]></title>
+<link>https://allafrica.com/stories/202209270096.html</link>
+<description><![CDATA[[DA] The DA calls on South Africans to comment on the scrapping of VAT on more essential food items, reducing the cost of these food items by over 15%.]]></description>
+<author>DA</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270096.html</guid>
+<pubDate>Tue, 27 Sep 2022 07:36:39 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[BCX and Alibaba Cloud Pen Deal to Bring Cloud Technologies to South Africa]]></title>
+<link>https://allafrica.com/stories/202209270003.html</link>
+<description><![CDATA[[The Exchange] Partnerships have largely driven technology innovation and global collaborations among tech companies, and Alibaba Cloud is not slowing down in committing itself to such partnerships.]]></description>
+<author>The Exchange</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209270003.html</guid>
+<pubDate>Tue, 27 Sep 2022 04:24:56 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Western Cape Education On Examination Practice for Grade 10 and 11 Learners]]></title>
+<link>https://allafrica.com/stories/202209260400.html</link>
+<description><![CDATA[[Govt of SA] #BackOnTrack: Strengthening examination practice for Grade 10 and 11 learners]]></description>
+<author>Govt of SA</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260400.html</guid>
+<pubDate>Mon, 26 Sep 2022 12:03:02 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Constitutional Court Ruling On Copyright Act Commended]]></title>
+<link>https://allafrica.com/stories/202209260381.html</link>
+<description><![CDATA[[SAnews.gov.za] Minister in the Presidency for Women, Youth and Persons with Disabilities, Maite Nkoana-Mashabane has commended the Constitutional Court ruling on sections of the Copyright Act being unconstitutional.]]></description>
+<author>SAnews.gov.za</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260381.html</guid>
+<pubDate>Mon, 26 Sep 2022 11:21:03 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[South Africa to Donate Vaccines to Liberia and Sierra Leone]]></title>
+<link>https://allafrica.com/stories/202209260346.html</link>
+<description><![CDATA[[FrontPageAfrica] South African Deputy Minister of the Department of International Relations and Cooperation, Ms Candith Mashigo-Dlamini, will travel to Liberia and Sierra Leone to hand over vaccines from 26-30 September 2022.]]></description>
+<author>FrontPageAfrica</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260346.html</guid>
+<pubDate>Mon, 26 Sep 2022 11:00:01 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Government Determined to See SAA Grow]]></title>
+<link>https://allafrica.com/stories/202209260158.html</link>
+<description><![CDATA[[SAnews.gov.za] The Department of Public Enterprises and government are committed to ensuring that South African Airways (SAA) grows and that the Strategic Equity Partnership with the Takatso Consortium is finalised.]]></description>
+<author>SAnews.gov.za</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260158.html</guid>
+<pubDate>Mon, 26 Sep 2022 08:48:37 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Eskom Continues to Implement Load Shedding]]></title>
+<link>https://allafrica.com/stories/202209260154.html</link>
+<description><![CDATA[[SAnews.gov.za] Eskom will continue to implement load shedding this week due to constraints from its diesel suppliers that is affecting the availability of bulk diesel to the Ankerlig and Gourikwa Open Cycle Gas Turbines, which have a combined capacity of 2 000MW.]]></description>
+<author>SAnews.gov.za</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260154.html</guid>
+<pubDate>Mon, 26 Sep 2022 08:43:40 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Here's Why Cape Town Is Clearing Invasive Plants]]></title>
+<link>https://allafrica.com/stories/202209260140.html</link>
+<description><![CDATA[[GroundUp] The project is expected to save billions of litres of water a year]]></description>
+<author>GroundUp</author>
+<guid isPermaLink="true">https://allafrica.com/stories/202209260140.html</guid>
+<pubDate>Mon, 26 Sep 2022 08:35:28 GMT</pubDate>
+</item>
+</channel>
+</rss>

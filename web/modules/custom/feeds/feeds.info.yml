@@ -1,0 +1,6 @@
+name: Custom Feeds
+type: module
+description: 'Custom Feeds for processing RSS content from news headlines.'
+package: Custom
+version: 1.0
+core_version_requirement: ^8 || ^9

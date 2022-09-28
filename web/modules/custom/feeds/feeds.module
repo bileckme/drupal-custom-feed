@@ -1,0 +1,25 @@
+<?php
+use Custom\Feeds\Feed;
+//use Drupal\Component\Serialization\Yaml;
+
+/**
+ * Get RSS Feed from url
+ *
+ * @param string $url
+ * @param string $date
+ * @return FeedIo\FeedIo\Item
+ */
+function feeds_get_rss($url, $date){
+    $feed = new Feed($url, $date);
+    $data = [];
+    foreach($feed->getResult() as $item)
+    {
+        $data[] = [
+            'title' => $item->getTitle(),
+            'link' => $item->getLink(),
+            'description' => $item->getContent()
+        ];
+        
+    }
+    return $data;
+}

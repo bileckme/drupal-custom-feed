@@ -1,0 +1,15 @@
+services:
+  debril.rss_atom.provider:
+    class: Custom\Feeds\Feed\Provider
+    arguments: ["@logger", "@doctrine"]
+
+  Custom\Feeds\Service\FeedService:
+    class: Custom\Feeds\Service\FeedService
+    arguments: ['@config.factory']
+
+  Custom\Feeds\Feed:
+    class: Custom\Feeds\Feed
+    arguments: ['@config.factory']
+
+  parameters:
+    debril.rss_atom.provider.class: 'Custom\Feeds\Provider'

@@ -1,0 +1,6 @@
+debril_rss_atom:
+    content_type_json: application/json
+    content_type_xml: application/xhtml+xml
+    force_refresh: true
+    date_formats:
+      - 'Y/M/d'
