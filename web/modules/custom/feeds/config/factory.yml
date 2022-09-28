@@ -1,0 +1,7 @@
+services:
+  feeds.service:
+    class: Custom\Feeds\FeedService
+    arguments: ['@config.factory']
+  feeds.feed:
+    class: Custom\Feeds\Feed
+    arguments: ['@config.factory']
